@@ -1,0 +1,14 @@
+var name = "Vivek Singh";
+var school = "𝕸𝕴𝕿";
+var section = "CSE";
+var grade = "A";
+var Subject = "TOC , OS,  ED/ EG";
+var marks = " 80 , 85 , 90 ";
+var rollNumber = 177727;
+console.log(name);
+console.log(school);
+console.log(section);
+console.log(grade);
+console.log(Subject);
+console.log(marks);
+console.log(rollNumber);
